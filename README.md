@@ -30,11 +30,11 @@
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=tailung42&theme=monokai&hide_border=true&background=272822&ring=F92672&fire=FD971F&currStreakLabel=A6E22E)
-![](https://github-readme-stats.vercel.app/api?username=tailung42&theme=monokai&hide_border=true&bg_color=272822&title_color=F92672&icon_color=FD971F&text_color=A6E22E)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tailung42&theme=monokai&hide_border=true&bg_color=272822&title_color=F92672)
+![](https://github-readme-streak-stats.herokuapp.com/?user=tailung42&theme=dark&hide_border=true&background=0D1117&ring=F92672&fire=FD971F&currStreakLabel=A6E22E)
+![](https://github-readme-stats.vercel.app/api?username=tailung42&theme=dark&hide_border=true&bg_color=0D1117&title_color=F92672&icon_color=FD971F&text_color=A6E22E)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tailung42&theme=dark&hide_border=true&bg_color=0D1117&title_color=F92672&layout=compact)
 
 ## 📈 Activity Graph
 <p align="center">
-    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=tailung42&theme=monokai&bg_color=272822&color=A6E22E&line=F92672&point=FD971F&area_color=66D9EF&title_color=F92672&area=true"/>
+    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=tailung42&bg_color=0D1117&color=A6E22E&line=F92672&point=FD971F&area_color=66D9EF&title_color=F92672&area=true"/>
 </p>
