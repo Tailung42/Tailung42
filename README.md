@@ -7,9 +7,9 @@
 </div>
 
 # 💫 About Me:
-- 🌱 I'm currently learning **Django, Godot**
+- 🌱 I'm currently learning **Django**
 - 📫 How to reach me: **thapabipin139@gmail.com**
-- ⚡ Fun fact: **Django is named after jazz legend Django Reinhardt, reflecting the creators' passion for music and creativity!**
+- ⚡ Fun fact: **Django is named after jazz legend Django Reinhardt, reflecting the creators' passion for music!**
 
 ## 🌐 Socials
 [![Twitter](https://img.shields.io/badge/Twitter-66D9EF?style=flat&logo=twitter&logoColor=white)](https://twitter.com/tailung00)
