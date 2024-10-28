@@ -1,20 +1,40 @@
-<h1 align="center">Hi 👋, I'm Bipin Thapa</h1>
-<h3 align="center">A Django developer</h3>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=tailung42&label=Visitors&color=dc143c&style=flat" alt="tailung42" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tailung42&label=Profile%20views&color=0e75b6&style=flat" alt="tailung42" /> </p>
+<div align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=31&pause=1000&color=F75B93&random=false&width=500&lines=Django+Developer" alt="Typing SVG" />
+  </a>
+</div>
 
-- 🌱 I’m currently learning **Django, Godot**
+# 💫 About Me:
+- 🌱 I'm currently learning **Django, Godot**
+- 📫 How to reach me: **thapabipin139@gmail.com**
+- ⚡ Fun fact: **Django is named after jazz legend Django Reinhardt, reflecting the creators' passion for music and creativity!**
 
-- 📫 How to reach me **thapabipin139@gmail.com**
+## 🌐 Socials
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/tailung00)
 
-- ⚡ Fun fact **Django is named after jazz legend Django Reinhardt, reflecting the creators' passion for music and creativity!**
+# 🧰 Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tailung00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tailung00" height="30" width="40" /></a>
+## 💻 Software and Tools
+<p>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=tailung42&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=tailung42&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tailung42&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tailung42&" alt="tailung42" /></p>
+## 📈 Activity Graph
+<p align="center">
+    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=tailung42&theme=tokyo-night"/>
+</p>
