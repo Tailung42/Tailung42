@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=31&pause=1000&color=F92672&random=false&width=500&lines=Django+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=31&pause=1000&color=F92672&random=false&width=500&lines=Django+&+React+Developer" alt="Typing SVG" />
   </a>
 </div>
 
