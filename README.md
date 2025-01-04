@@ -8,7 +8,7 @@
 > whoami
 username: bipin thapa
 status: active
-Level: student
+Current Project: Finding motivation... still searching
 ```
 
 <!--## 🔗 Socials-->
