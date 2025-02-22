@@ -1,6 +1,6 @@
-# 🌆 Code Alchemist
+# 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=D54C4C&center=true&vCenter=true&width=800&lines=Django+%26+React+Developer;Bridging+Innovation+and+Functionality;Crafting+Elegant+Solutions+in+the+Matrix" alt="Cybernetic Introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=D54C4C&center=true&vCenter=true&width=800&lines=Hi, I'm Bipin;Django+%26+React+Developer" alt="Cybernetic Introduction" />
 </div>
 
 ## 🔮 About Me
@@ -8,7 +8,7 @@
 > whoami
 username: bipin thapa
 status: active
-Current Project: Finding motivation... still searching
+Current Project: awiat find_motivation()
 ```
 
 <!--## 🔗 Socials-->
@@ -41,8 +41,8 @@ Current Project: Finding motivation... still searching
 </div>
 
 ---
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=tailung42&color=D54C4C" alt="Interaction Counter" />
-    <br>
-    *"Simplicity is the ultimate sophistication." - Leonardo da Vinci* 🌐🔧
-</div>
+<!-- <div align="center"> --!>
+<!--     <img src="https://komarev.com/ghpvc/?username=tailung42&color=D54C4C" alt="Interaction Counter" /> -->
+<!--     <br> -->
+<!--     *"Simplicity is the ultimate sophistication." - Leonardo da Vinci* 🌐🔧 -->
+<!-- </div> -->
