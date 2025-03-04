@@ -8,7 +8,7 @@
 > whoami
 username: bipin thapa
 status: active
-Current Project: awiat find_motivation()
+Current Project: await find_motivation()
 ```
 
 <!--## 🔗 Socials-->
@@ -27,9 +27,9 @@ Current Project: awiat find_motivation()
 ## 📊 GitHub Stats
 <div align="center">
     <!-- GitHub Streak Stats -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tailung42&theme=dark&hide_border=true&background=0D1117&ring=D54C4C&fire=FD971F&currStreakLabel=A6E22E" alt="GitHub Streak Stats" />
+<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tailung42&theme=dark&hide_border=true&background=0D1117&ring=D54C4C&fire=FD971F&currStreakLabel=A6E22E" alt="GitHub Streak Stats" /> -->
     <!-- GitHub Profile Stats -->
-<!--     <img src="https://github-readme-stats.vercel.app/api?username=tailung42&theme=dark&hide_border=true&bg_color=0D1117&title_color=D54C4C&icon_color=FD971F&text_color=A6E22E" alt="GitHub Profile Stats" />a -->
+    <img src="https://github-readme-stats.vercel.app/api?username=tailung42&theme=dark&hide_border=true&bg_color=0D1117&title_color=D54C4C&icon_color=FD971F&text_color=A6E22E" alt="GitHub Profile Stats" />a
     <!-- Most Used Languages -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tailung42&theme=dark&hide_border=true&bg_color=0D1117&title_color=D54C4C&layout=compact" alt="Top Languages" />
 </div>
