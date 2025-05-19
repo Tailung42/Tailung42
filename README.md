@@ -24,11 +24,12 @@
     <!-- Most Used Languages -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tailung42&theme=dark&hide_border=true&bg_color=0D1117&title_color=D54C4C&layout=compact" alt="Top Languages" />
 </div>
-
+<!-- 
 ## 📈 Contribution flux
+
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=tailung42&bg_color=0D1117&color=A6E22E&line=D54C4C&point=FD971F&area_color=66D9EF&title_color=D54C4C&area=true" alt="Contribution Dynamics" />
-</div>
+ </div> -->
 
 ---
 <!-- <div align="center"> -->
