@@ -1,4 +1,4 @@
-# 
+<!-- # 
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=D54C4C&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Bipin;Django+%26+React+Developer" alt="Cybernetic Introduction" />
 </div>
@@ -37,3 +37,4 @@
 <!--     <br> -->
 <!--     *"Simplicity is the ultimate sophistication." - Leonardo da Vinci* 🌐🔧 -->
 <!-- </div> -->
+-->
