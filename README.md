@@ -13,7 +13,7 @@
 ## 💻 Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=linux,c,python,javascript,django,react,sqlite,git,godot&theme=dark" alt="Tech Ecosystem" />
+<img src="https://skillicons.dev/icons?i=linux,c,python,javascript,django,react,sqlite,git&theme=dark" alt="Tech Ecosystem" />
 </div>
 
 ---
